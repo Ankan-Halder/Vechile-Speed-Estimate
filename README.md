@@ -1,8 +1,8 @@
 # Vechile-Speed-Estimate
 
-#Required File 
+# Required files 
 
-Yolo.weights in pretrained_yolo folder
+Yolo.weights in pretrained_yolo folder (Dowload and put there)
 
 
 # Run Demo
